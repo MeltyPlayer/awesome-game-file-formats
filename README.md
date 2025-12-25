@@ -184,3 +184,9 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/NeilJed/VTFLib
  - https://github.com/TeamSpen210/srctools
  - https://github.com/UnBeatWaterGH/valve-vrm
+
+### Visceral Games
+ - https://github.com/Durik256/Noesis-Plugins
+ - https://github.com/gibbed/Gibbed.Visceral
+ - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/VisceralGames
+ - https://zenhax.com/viewtopic.php@t=15376.html
