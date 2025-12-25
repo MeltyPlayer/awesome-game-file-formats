@@ -93,6 +93,12 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/JSystem
  - https://github.com/NerduMiner/p2setoolkit
  - https://github.com/Rain336/JSystem
+ - https://github.com/Sage-of-Mirrors/blemd
+ - https://github.com/Sage-of-Mirrors/BTITool
+ - https://github.com/Sage-of-Mirrors/GCFontTool
+ - https://github.com/Sage-of-Mirrors/J3DUltra
+ - https://github.com/Sage-of-Mirrors/Jekyll
+ - https://github.com/Sage-of-Mirrors/libbti
  - https://github.com/Sage-of-Mirrors/SuperBMD
  - https://github.com/snailspeed3/RiiStudio
  - https://github.com/SunakazeKun/pyjmap
