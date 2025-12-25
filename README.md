@@ -19,6 +19,19 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/Trenavix/F3D2F3DEX
  - https://wiki.cloudmodding.com/oot/F3DZEX2
 
+### FromSoftware
+ - https://github.com/asasasasasbc/FLVER_Editor
+ - https://github.com/Atvaark/BinderTool
+ - https://github.com/colevk/dark-souls-map-viewer
+ - https://github.com/elizagamedev/blender-flver
+ - https://github.com/FelixBenter/FromSoftware-Blender-Importer
+ - https://github.com/Grimrukh/soulstruct
+ - https://github.com/Grimrukh/soulstruct-blender
+ - https://github.com/JKAnderson/SoulsTemplates
+ - https://github.com/Meowmaritus/DSAnimStudio
+ - https://github.com/soulsmods/DSMapStudio
+ - https://github.com/thefifthmatt/ESDLang
+
 ### Game Freak
  #### Gen I/II
   - https://github.com/KernelEquinox/map-editor
