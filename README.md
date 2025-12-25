@@ -19,6 +19,16 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/Trenavix/F3D2F3DEX
  - https://wiki.cloudmodding.com/oot/F3DZEX2
 
+### Game Freak
+ #### Gen I/II
+  - https://github.com/KernelEquinox/map-editor
+  - https://github.com/Rangi42/polished-map
+ #### Gen III
+  - https://github.com/cosarara/blue-spider
+  - https://github.com/huderlem/porymap
+  - https://github.com/shinyquagsire23/MEH
+  - https://github.com/Sierraffinity/AwesomeMapEditor
+
 ### Genius Sonority
  - https://github.com/gamemasterplc/pokemon_fsys_tool
 
@@ -91,15 +101,22 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/MosesofEgypt/gdl_tools
 
 ### Nintendo EAD
+ #### Luigi's Mansion
+  - https://github.com/Astral-C/Luigis-Mansion-Blender-Toolkit
+  - https://github.com/opeyx/Dolhouse
+  - https://github.com/Sage-of-Mirrors/Booldozer
  #### Pikmin
   - https://github.com/intns/MODConv
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin1
   - https://github.com/NerduMiner/Pikmin1Toolset
   - https://github.com/RenolY2/PikBinGen
- #### Luigi's Mansion
-  - https://github.com/Astral-C/Luigis-Mansion-Blender-Toolkit
-  - https://github.com/opeyx/Dolhouse
-  - https://github.com/Sage-of-Mirrors/Booldozer
+
+### Sappy
+*A common sound/music engine for the GBA.*
+ - https://github.com/berg8793/gba-mus-ripper
+ - https://github.com/hfmkwi/SapPy
+ - https://github.com/maddievision/sappy
+ - https://github.com/Touched/Sappy
 
 ### Sonic Team
  #### Sonic Adventure
