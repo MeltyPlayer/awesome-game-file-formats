@@ -28,11 +28,16 @@ A collection of awesome documentation and libraries for various game file format
  - https://smashboards.com/threads/melee-dat-format.292603/
 
 ### Intelligent Systems
+ #### Paper Mario 64
+  - https://github.com/magcius/noclip.website/tree/main/src/PaperMario64
+  - https://github.com/The-NinToaster/star-rod
+ #### Paper Mario: The Thousand Year Door / Super Paper Mario
   - https://github.com/follyfoxe/SpmViewer
   - https://github.com/jdaster64/ttyd-utils
   - https://github.com/magcius/noclip.website/tree/main/src/PaperMarioTTYD
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/PaperMarioTheThousandYearDoor
   - https://github.com/PistonMiner/ttyd-tools
+  - https://github.com/uyjulian/PaperMarioModelViewer
 
 ### JSYSTEM
 *"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era."*
