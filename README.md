@@ -28,6 +28,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/Grimrukh/soulstruct
  - https://github.com/Grimrukh/soulstruct-blender
  - https://github.com/JKAnderson/SoulsTemplates
+ - https://github.com/magcius/noclip.website/tree/main/src/DarkSouls
  - https://github.com/Meowmaritus/DSAnimStudio
  - https://github.com/soulsmods/DSMapStudio
  - https://github.com/thefifthmatt/ESDLang
@@ -44,6 +45,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
 
 ### Genius Sonority
  - https://github.com/gamemasterplc/pokemon_fsys_tool
+ - https://github.com/vgmoose/PokemonFSYSConverter
 
 ### Grezzo
  - https://github.com/M-1-RLG/io_scene_cmb
@@ -136,3 +138,12 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://info.sonicretro.org/SCHG:Sonic_Adventure
   - https://github.com/FraGag/sadtools
   - https://github.com/X-Hax/sa_tools
+
+### Source
+ - https://github.com/Galaco/studiomodel
+ - https://github.com/handsomematt/go-valve
+ - https://github.com/lukezbihlyj/vdf-parser
+ - https://github.com/magcius/noclip.website/tree/main/src/SourceEngine
+ - https://github.com/NeilJed/VTFLib
+ - https://github.com/TeamSpen210/srctools
+ - https://github.com/UnBeatWaterGH/valve-vrm
