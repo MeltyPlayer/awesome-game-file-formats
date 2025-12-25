@@ -97,6 +97,13 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://wiki.cloudmodding.com/zgcn/JSYSTEM
  - https://wiki.tockdom.com/wiki/BMD_and_BDL_(File_Format)
 
+### Jupiter
+ - https://github.com/AkagitsuneYuki/MarioPicrossRipper
+ - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/MariosPicross/MariosPicross
+ - https://github.com/sopoforic/cgrr-mariospicross
+ - https://github.com/T0biasCZe/MarioPicrossLoader3000
+ - https://www.zophar.net/fileuploads/3/21546xutra/picrossleveldata.txt
+
 ### Kuju London
  - https://github.com/htimsnhoj543678/PF2-BMP-Editor
  - https://github.com/JasperZebra/Battalion-Wars-SFX-Editor
@@ -111,6 +118,12 @@ I've grouped sources by common "formats", preferring the broadest category possi
 ### Level-5
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Level5
  - https://github.com/Ploaj/Metanoia
+ 
+### Mario Artist
+ - https://github.com/jkbenaim/leotools
+ - https://github.com/LuigiBlood/leo64dd_python
+ - https://github.com/LuigiBlood/mfs_manager
+ - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/MarioArtist
  
 ### Midway
  - https://github.com/haekb/gdl-tools
