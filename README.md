@@ -180,7 +180,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/NerduMiner/Pikmin1Toolset
   - https://github.com/RenolY2/PikBinGen
  #### Pikmin 2
-  - [(JSYSTEM)](./#JSYSTEM)
+  - [(JSYSTEM)](#jsystem)
   - https://github.com/AntonioAntonio-ai/PikminEnemyParms
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin2
   - https://github.com/Minty-Meeo/Pikmin-2-Symbol-Maps
