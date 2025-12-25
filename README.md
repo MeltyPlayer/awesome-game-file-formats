@@ -5,10 +5,10 @@ Please feel free to contribute more sources via pull requests.
 
 ## Formats
 
-I've split up formats into categories preferring the most broad category possible:
- - Library, in which a format is used by multiple different studios.
- - Studio, whose games tend to reuse the same formats/concepts.
- - Games, when a single game is the only known example of a given format.
+I've grouped sources by common "formats", preferring the broadest category possible:
+ - Library, when a set of formats are used by multiple different studios.
+ - Studio, when a set of formats are reused by a single studio.
+ - Games, when a set of formats are used only in one game.
 
 ### Fast3d/F3dex
 *SGI's microcode format for defining 3d graphics on the N64.*
@@ -34,6 +34,11 @@ I've split up formats into categories preferring the most broad category possibl
  - https://github.com/magcius/noclip.website/tree/main/src/SuperSmashBrosMelee
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Sysdolphin
  - https://smashboards.com/threads/melee-dat-format.292603/
+
+### Interactive Studios
+ #### Glover
+  - https://github.com/magcius/noclip.website/tree/main/src/Glover
+  - https://github.com/naclomi/libgarib
 
 ### Intelligent Systems
  #### Paper Mario 64
@@ -95,3 +100,9 @@ I've split up formats into categories preferring the most broad category possibl
   - https://github.com/Astral-C/Luigis-Mansion-Blender-Toolkit
   - https://github.com/opeyx/Dolhouse
   - https://github.com/Sage-of-Mirrors/Booldozer
+
+### Sonic Team
+ #### Sonic Adventure
+  - https://info.sonicretro.org/SCHG:Sonic_Adventure
+  - https://github.com/FraGag/sadtools
+  - https://github.com/X-Hax/sa_tools
