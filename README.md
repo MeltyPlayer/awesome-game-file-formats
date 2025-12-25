@@ -70,7 +70,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
 ### Intelligent Systems
  #### Paper Mario 64
   - https://github.com/magcius/noclip.website/tree/main/src/PaperMario64
-  - https://github.com/The-NinToaster/star-rod
+  - https://github.com/z64a/star-rod
  #### Paper Mario: The Thousand Year Door / Super Paper Mario
   - https://github.com/follyfoxe/SpmViewer
   - https://github.com/jdaster64/ttyd-utils
@@ -121,6 +121,20 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/GauntletDarkLegacy
  - https://github.com/MosesofEgypt/gdl_tools
 
+### Naughty Dog
+ #### Crash Bandicoot 1/2/3
+ - https://github.com/cbhacks/CrashEdit
+ - https://github.com/cbhacks/drnsf
+ - https://github.com/dehodson/crash-bandicoot-nsf
+ - https://github.com/warenhuis/Crash-Bandicoot-2-Modelexport
+ - https://github.com/wurlyfox/crashutils
+ #### Jak and Daxter
+ - https://github.com/blahpy/jak1-vag-splitter
+ - https://github.com/efimandreev0/JakAndDaxter1Sound
+ - https://github.com/innocentmiau/Blender-Script-JaD-Actors
+ - https://github.com/jwetzell/JakAudioTools
+ - https://github.com/LuminarLight/JakAudioTool
+
 ### Nintendo EAD
  #### Luigi's Mansion
   - https://github.com/Astral-C/Luigis-Mansion-Blender-Toolkit
@@ -133,7 +147,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/RenolY2/PikBinGen
 
 ### Sappy
-*A common sound/music engine for the GBA.*
+*SDK-provided formats for the GBA's sound engine.*
  - https://github.com/berg8793/gba-mus-ripper
  - https://github.com/hfmkwi/SapPy
  - https://github.com/maddievision/sappy
