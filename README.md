@@ -151,13 +151,20 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/Cuyler36/Animal-Crossing-Texture-Editor
   - https://github.com/Cuyler36/Cross-View
   - https://github.com/Cuyler36/RELDumper
+ #### AST
+ *PCM audio format used in various Nintendo games.*
+  - https://github.com/gheskett/Nintendo-AST-Creator
+  - https://github.com/hcs64/vgm_ripping
+  - https://github.com/jdflyer/ast_to_wav
+  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Formats/Ast
+  - https://github.com/vgmstream/vgmstream
+  - https://github.com/XAYRGA/jatast
  #### JSYSTEM
  *"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era."*
   - http://amnoid.de/gc
   - https://github.com/magcius/noclip.website/tree/main/src/Common/JSYSTEM
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/JSystem
   - https://github.com/Rain336/JSystem
-  - https://github.com/XAYRGA/ibnktool
   - https://wiki.cloudmodding.com/zgcn/JSYSTEM
   ##### J2DGraph
    - https://github.com/arookas/blojob
@@ -175,6 +182,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
    - https://wiki.tockdom.com/wiki/BMD_and_BDL_(File_Format)
   ##### JAudio
    - https://github.com/NerduMiner/p2setoolkit
+   - https://github.com/XAYRGA/ibnktool
   ##### JMap
    - https://github.com/SunakazeKun/pyjmap
   ##### JParticle
