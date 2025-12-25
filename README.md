@@ -1,12 +1,24 @@
 # awesome-game-file-formats
 A collection of awesome documentation and libraries for various game file formats.
 
-(Organized by library/studio rather than by game or console.)
+** Libraries/Studios
+
+- **Fast3d/F3dex2** - *SGI's microcode format for defining 3d graphics on the N64.*
+  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/F3dzex2/F3dzex2
+  - https://github.com/Mr-Wiseguy/F3DEX2Decoder
+  - https://github.com/Trenavix/F3D2F3DEX
+  - https://wiki.cloudmodding.com/oot/F3DZEX2
 
 - **Grezzo**
   - https://github.com/M-1-RLG/io_scene_cmb
   - https://github.com/magcius/noclip.website/tree/main/src/OcarinaOfTime3D
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Grezzo
+ 
+- **HAL Laboratory**
+  - https://github.com/jam1garner/Smash-Forge
+  - https://github.com/Ploaj/HSDLib
+  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Sysdolphin
+  - https://smashboards.com/threads/melee-dat-format.292603/
 
 - **Intelligent Systems**
   - https://github.com/follyfoxe/SpmViewer
@@ -14,12 +26,6 @@ A collection of awesome documentation and libraries for various game file format
   - https://github.com/magcius/noclip.website/tree/main/src/PaperMarioTTYD
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/PaperMarioTheThousandYearDoor
   - https://github.com/PistonMiner/ttyd-tools
-
-- **Fast3d/F3dex2** - *SGI's microcode format for defining 3d graphics on the N64.*
-  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/F3dzex2/F3dzex2
-  - https://github.com/Mr-Wiseguy/F3DEX2Decoder
-  - https://github.com/Trenavix/F3D2F3DEX
-  - https://wiki.cloudmodding.com/oot/F3DZEX2
 
 - **JSYSTEM** - *"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era."*
   - https://github.com/LordNed/J3D-Model-Viewer
