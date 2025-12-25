@@ -130,27 +130,33 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/MarioArtist
  
 ### Midway
- - https://github.com/haekb/gdl-tools
- - https://github.com/haekb/gdl_wad_decoder
- - https://github.com/haekb/gdl_vbnk_decoder
- - https://github.com/haekb/gl_rom_decoder
- - https://github.com/haekb/io_scene_gdl
- - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/GauntletDarkLegacy
- - https://github.com/MosesofEgypt/gdl_tools
+ #### Gauntlet
+  - https://github.com/haekb/gdl-tools
+  - https://github.com/haekb/gdl_wad_decoder
+  - https://github.com/haekb/gdl_vbnk_decoder
+  - https://github.com/haekb/gl_rom_decoder
+  - https://github.com/haekb/io_scene_gdl
+  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/GauntletDarkLegacy
+  - https://github.com/MosesofEgypt/gdl_tools'
+ #### NFL Blitz
+  - https://github.com/thompjake/NFL-Blitz-File-Editor
+  - https://github.com/thompjake/NFL-Blitz-Play-Maker
+  - https://github.com/thompjake/NFL_Blitz_Roster_Manager
+  - https://github.com/thompjake/NFLBlitzDataEditor.Core
 
 ### Naughty Dog
  #### Crash Bandicoot 1/2/3
- - https://github.com/cbhacks/CrashEdit
- - https://github.com/cbhacks/drnsf
- - https://github.com/dehodson/crash-bandicoot-nsf
- - https://github.com/warenhuis/Crash-Bandicoot-2-Modelexport
- - https://github.com/wurlyfox/crashutils
+  - https://github.com/cbhacks/CrashEdit
+  - https://github.com/cbhacks/drnsf
+  - https://github.com/dehodson/crash-bandicoot-nsf
+  - https://github.com/warenhuis/Crash-Bandicoot-2-Modelexport
+  - https://github.com/wurlyfox/crashutils
  #### Jak and Daxter
- - https://github.com/blahpy/jak1-vag-splitter
- - https://github.com/efimandreev0/JakAndDaxter1Sound
- - https://github.com/innocentmiau/Blender-Script-JaD-Actors
- - https://github.com/jwetzell/JakAudioTools
- - https://github.com/LuminarLight/JakAudioTool
+  - https://github.com/blahpy/jak1-vag-splitter
+  - https://github.com/efimandreev0/JakAndDaxter1Sound
+  - https://github.com/innocentmiau/Blender-Script-JaD-Actors
+  - https://github.com/jwetzell/JakAudioTools
+  - https://github.com/LuminarLight/JakAudioTool
 
 ### Nintendo EAD
  #### Luigi's Mansion
