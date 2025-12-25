@@ -59,6 +59,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/Ploaj/HSDLib
  - https://github.com/Ploaj/MeleeMedia
  - https://github.com/magcius/noclip.website/tree/main/src/SuperSmashBrosMelee
+ - https://github.com/magcius/noclip.website/tree/main/src/SYSDOLPHIN
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Sysdolphin
  - https://smashboards.com/threads/melee-dat-format.292603/
 
@@ -186,9 +187,9 @@ I've grouped sources by common "formats", preferring the broadest category possi
    - https://github.com/LordNed/WArchive-Tools
    - https://github.com/RenolY2/RARClib.py
    - https://github.com/RenolY2/yaz0-decode-encode
-   - https://github.com/Sage-of-Mirrors/libbti
    - https://github.com/Sage-of-Mirrors/BTITool
    - https://github.com/Sage-of-Mirrors/GCFontTool
+   - https://github.com/Sage-of-Mirrors/libbti
    - https://github.com/Sage-of-Mirrors/RarcPack
    - https://github.com/SunakazeKun/pyjkernel
    - https://github.com/SuperHackio/WiiExplorer
@@ -197,6 +198,11 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/Astral-C/Luigis-Mansion-Blender-Toolkit
   - https://github.com/opeyx/Dolhouse
   - https://github.com/Sage-of-Mirrors/Booldozer
+ #### Mario Kart: Double Dash
+  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/MarioKartDoubleDash
+  - https://github.com/RenolY2/mkdd-collision
+  - https://github.com/RenolY2/mkdd-track-editor
+  - https://github.com/shibbo/DouBOL-Dash
  #### Pikmin
   - https://github.com/intns/MODConv
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin1
@@ -209,6 +215,11 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin2
   - https://github.com/Minty-Meeo/Pikmin-2-Symbol-Maps
   - https://github.com/RenolY2/pikmin-tools
+ #### Super Mario 64 DS
+  - https://github.com/Arisotura/SM64DSe
+  - https://github.com/Gota7/SM64DSe-Ultimate
+  - https://github.com/magcius/noclip.website/tree/main/src/SuperMario64DS
+  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/SuperMario64Ds
 
 ### Sappy
 *SDK-provided formats for the GBA's sound engine.*
