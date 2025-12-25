@@ -83,34 +83,6 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/PistonMiner/ttyd-tools
   - https://github.com/uyjulian/PaperMarioModelViewer
 
-### JSYSTEM
-*"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era."*
- - http://amnoid.de/gc
- - https://github.com/arookas/blojob
- - https://github.com/blank63/j3dview
- - https://github.com/LordNed/J3D-Model-Viewer
- - https://github.com/LordNed/JStudio
- - https://github.com/magcius/noclip.website/tree/main/src/Common/JSYSTEM
- - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/JSystem
- - https://github.com/NerduMiner/p2setoolkit
- - https://github.com/PikHacker/jpc_conv
- - https://github.com/Rain336/JSystem
- - https://github.com/RenolY2/pyblo2-gui
- - https://github.com/Sage-of-Mirrors/blemd
- - https://github.com/Sage-of-Mirrors/BTITool
- - https://github.com/Sage-of-Mirrors/GCFontTool
- - https://github.com/Sage-of-Mirrors/J3DUltra
- - https://github.com/Sage-of-Mirrors/Jekyll
- - https://github.com/Sage-of-Mirrors/libbti
- - https://github.com/Sage-of-Mirrors/SuperBMD
- - https://github.com/snailspeed3/RiiStudio
- - https://github.com/SunakazeKun/pyjmap
- - https://github.com/SunakazeKun/pyjkernel
- - https://github.com/XAYRGA/ibnktool
- - https://lumasworkshop.com/wiki/BMD/BDL_(File_Format)
- - https://wiki.cloudmodding.com/zgcn/JSYSTEM
- - https://wiki.tockdom.com/wiki/BMD_and_BDL_(File_Format)
-
 ### Jupiter
  - https://github.com/AkagitsuneYuki/MarioPicrossRipper
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/MariosPicross/MariosPicross
@@ -169,6 +141,33 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/LuminarLight/JakAudioTool
 
 ### Nintendo EAD
+ #### JSYSTEM
+ *"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era."*
+  - http://amnoid.de/gc
+  - https://github.com/arookas/blojob
+  - https://github.com/blank63/j3dview
+  - https://github.com/LordNed/J3D-Model-Viewer
+  - https://github.com/LordNed/JStudio
+  - https://github.com/magcius/noclip.website/tree/main/src/Common/JSYSTEM
+  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/JSystem
+  - https://github.com/NerduMiner/p2setoolkit
+  - https://github.com/PikHacker/jpc_conv
+  - https://github.com/Rain336/JSystem
+  - https://github.com/RenolY2/pyblo2-gui
+  - https://github.com/Sage-of-Mirrors/blemd
+  - https://github.com/Sage-of-Mirrors/BTITool
+  - https://github.com/Sage-of-Mirrors/GCFontTool
+  - https://github.com/Sage-of-Mirrors/J3DUltra
+  - https://github.com/Sage-of-Mirrors/Jekyll
+  - https://github.com/Sage-of-Mirrors/libbti
+  - https://github.com/Sage-of-Mirrors/SuperBMD
+  - https://github.com/snailspeed3/RiiStudio
+  - https://github.com/SunakazeKun/pyjmap
+  - https://github.com/SunakazeKun/pyjkernel
+  - https://github.com/XAYRGA/ibnktool
+  - https://lumasworkshop.com/wiki/BMD/BDL_(File_Format)
+  - https://wiki.cloudmodding.com/zgcn/JSYSTEM
+  - https://wiki.tockdom.com/wiki/BMD_and_BDL_(File_Format)
  #### Luigi's Mansion
   - https://github.com/Astral-C/Luigis-Mansion-Blender-Toolkit
   - https://github.com/opeyx/Dolhouse
