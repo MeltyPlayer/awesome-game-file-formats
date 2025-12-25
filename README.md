@@ -17,6 +17,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/F3dzex2
  - https://github.com/Mr-Wiseguy/F3DEX2Decoder
  - https://github.com/Trenavix/F3D2F3DEX
+ - https://hack64.net/wiki/doku.php?id=super_mario_64:fast3d_display_list_commands
  - https://wiki.cloudmodding.com/oot/F3DZEX2
 
 ### FromSoftware
@@ -59,7 +60,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/magcius/noclip.website/tree/main/src/SYSDOLPHIN
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Sysdolphin
  - https://github.com/Ploaj/HSDLib
-#### Super Smash Bros.: Melee
+#### Super Smash Bros. Melee
  - https://github.com/jam1garner/Smash-Forge
  - https://github.com/magcius/noclip.website/tree/main/src/SuperSmashBrosMelee
  - https://github.com/Ploaj/MeleeMedia
@@ -73,6 +74,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
  #### Paper Mario 64
   - https://github.com/magcius/noclip.website/tree/main/src/PaperMario64
   - https://github.com/z64a/star-rod
+  - https://hack64.net/wiki/doku.php?id=paper_mario
  #### Paper Mario: The Thousand Year Door / Super Paper Mario
   - https://github.com/follyfoxe/SpmViewer
   - https://github.com/jdaster64/ttyd-utils
@@ -225,6 +227,11 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin2
   - https://github.com/Minty-Meeo/Pikmin-2-Symbol-Maps
   - https://github.com/RenolY2/pikmin-tools
+ #### Super Mario 64
+  - https://github.com/DavidSM64/Quad64
+  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/SuperMario64
+  - https://github.com/Trenavix/SM64Paint
+  - https://hack64.net/wiki/doku.php?id=super_mario_64
  #### Super Mario 64 DS
   - https://github.com/Arisotura/SM64DSe
   - https://github.com/Gota7/SM64DSe-Ultimate
