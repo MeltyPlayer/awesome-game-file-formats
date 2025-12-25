@@ -51,6 +51,8 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/M-1-RLG/io_scene_cmb
  - https://github.com/magcius/noclip.website/tree/main/src/OcarinaOfTime3D
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Grezzo
+ - https://github.com/xdanieldzd/N3DSCmbViewer
+ - https://github.com/xdanieldzd/Scarlet
  
 ### HAL Laboratory
  - https://github.com/jam1garner/Smash-Forge
@@ -105,6 +107,10 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/RenolY2/bw-model-viewer
  - https://github.com/RenolY2/bw-restool
  - https://github.com/RenolY2/bw-texture-conv
+
+### Level-5
+ - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Level5
+ - https://github.com/Ploaj/Metanoia
  
 ### Midway
  - https://github.com/haekb/gdl-tools
