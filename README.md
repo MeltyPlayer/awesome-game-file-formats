@@ -86,13 +86,16 @@ I've grouped sources by common "formats", preferring the broadest category possi
 ### JSYSTEM
 *"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era."*
  - http://amnoid.de/gc
+ - https://github.com/arookas/blojob
  - https://github.com/blank63/j3dview
  - https://github.com/LordNed/J3D-Model-Viewer
  - https://github.com/LordNed/JStudio
  - https://github.com/magcius/noclip.website/tree/main/src/Common/JSYSTEM
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/JSystem
  - https://github.com/NerduMiner/p2setoolkit
+ - https://github.com/PikHacker/jpc_conv
  - https://github.com/Rain336/JSystem
+ - https://github.com/RenolY2/pyblo2-gui
  - https://github.com/Sage-of-Mirrors/blemd
  - https://github.com/Sage-of-Mirrors/BTITool
  - https://github.com/Sage-of-Mirrors/GCFontTool
@@ -103,6 +106,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/snailspeed3/RiiStudio
  - https://github.com/SunakazeKun/pyjmap
  - https://github.com/SunakazeKun/pyjkernel
+ - https://github.com/XAYRGA/ibnktool
  - https://lumasworkshop.com/wiki/BMD/BDL_(File_Format)
  - https://wiki.cloudmodding.com/zgcn/JSYSTEM
  - https://wiki.tockdom.com/wiki/BMD_and_BDL_(File_Format)
@@ -172,8 +176,16 @@ I've grouped sources by common "formats", preferring the broadest category possi
  #### Pikmin
   - https://github.com/intns/MODConv
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin1
+  - https://github.com/Minty-Meeo/piki-tools
   - https://github.com/NerduMiner/Pikmin1Toolset
   - https://github.com/RenolY2/PikBinGen
+ #### Pikmin 2
+  - [(JSYSTEM)](./#JSYSTEM)
+  - https://github.com/AntonioAntonio-ai/PikminEnemyParms
+  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin2
+  - https://github.com/Minty-Meeo/Pikmin-2-Symbol-Maps
+  - https://github.com/RenolY2/pikmin-tools
+  - https://github.com/RenolY2/pikmin2-stb
 
 ### Sappy
 *SDK-provided formats for the GBA's sound engine.*
