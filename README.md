@@ -1,12 +1,20 @@
 # awesome-game-file-formats
 A collection of awesome documentation and libraries for various game file formats.
 
-## Libraries/Studios
+Please feel free to contribute more sources via pull requests.
 
-### Fast3d/F3dex2
+## Formats
+
+I've split up formats into categories preferring the most broad category possible:
+ - Library, in which a format is used by multiple different studios.
+ - Studio, whose games tend to reuse the same formats/concepts.
+ - Games, when a single game is the only known example of a given format.
+
+### Fast3d/F3dex
 *SGI's microcode format for defining 3d graphics on the N64.*
  - https://github.com/Emill/n64-fast3d-engine
- - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/F3dzex2/F3dzex2
+ - https://github.com/magcius/noclip.website/blob/main/src/BanjoKazooie/f3dex.ts
+ - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/F3dzex2
  - https://github.com/Mr-Wiseguy/F3DEX2Decoder
  - https://github.com/Trenavix/F3D2F3DEX
  - https://wiki.cloudmodding.com/oot/F3DZEX2
@@ -47,6 +55,7 @@ A collection of awesome documentation and libraries for various game file format
  - https://github.com/LordNed/JStudio
  - https://github.com/magcius/noclip.website/tree/main/src/Common/JSYSTEM
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/JSystem
+ - https://github.com/NerduMiner/p2setoolkit
  - https://github.com/Rain336/JSystem
  - https://github.com/Sage-of-Mirrors/SuperBMD
  - https://github.com/snailspeed3/RiiStudio
@@ -73,5 +82,16 @@ A collection of awesome documentation and libraries for various game file format
  - https://github.com/haekb/gdl_vbnk_decoder
  - https://github.com/haekb/gl_rom_decoder
  - https://github.com/haekb/io_scene_gdl
- - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/GauntletDarkLegacy/GauntletDarkLegacy
+ - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/GauntletDarkLegacy
  - https://github.com/MosesofEgypt/gdl_tools
+
+### Nintendo EAD
+ #### Pikmin
+  - https://github.com/intns/MODConv
+  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin1
+  - https://github.com/NerduMiner/Pikmin1Toolset
+  - https://github.com/RenolY2/PikBinGen
+ #### Luigi's Mansion
+  - https://github.com/Astral-C/Luigis-Mansion-Blender-Toolkit
+  - https://github.com/opeyx/Dolhouse
+  - https://github.com/Sage-of-Mirrors/Booldozer
