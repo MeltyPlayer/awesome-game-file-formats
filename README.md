@@ -55,22 +55,19 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/xdanieldzd/Scarlet
  
 ### HAL Laboratory
- - https://github.com/jam1garner/Smash-Forge
- - https://github.com/Ploaj/HSDLib
- - https://github.com/Ploaj/MeleeMedia
- - https://github.com/magcius/noclip.website/tree/main/src/SuperSmashBrosMelee
+#### sysdolphin
  - https://github.com/magcius/noclip.website/tree/main/src/SYSDOLPHIN
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Sysdolphin
+ - https://github.com/Ploaj/HSDLib
+#### Super Smash Bros.: Melee
+ - https://github.com/jam1garner/Smash-Forge
+ - https://github.com/magcius/noclip.website/tree/main/src/SuperSmashBrosMelee
+ - https://github.com/Ploaj/MeleeMedia
  - https://smashboards.com/threads/melee-dat-format.292603/
-
+  
 ### Hudson Soft
  - https://github.com/PartyPlanner64/PartyPlanner64
  - https://github.com/PartyPlanner64/symbols
-
-### Interactive Studios
- #### Glover
-  - https://github.com/magcius/noclip.website/tree/main/src/Glover
-  - https://github.com/naclomi/libgarib
 
 ### Intelligent Systems
  #### Paper Mario 64
@@ -83,6 +80,11 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/PaperMarioTheThousandYearDoor
   - https://github.com/PistonMiner/ttyd-tools
   - https://github.com/uyjulian/PaperMarioModelViewer
+
+### Interactive Studios
+ #### Glover
+  - https://github.com/magcius/noclip.website/tree/main/src/Glover
+  - https://github.com/naclomi/libgarib
 
 ### Jupiter
  - https://github.com/AkagitsuneYuki/MarioPicrossRipper
@@ -120,7 +122,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/haekb/gl_rom_decoder
   - https://github.com/haekb/io_scene_gdl
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/GauntletDarkLegacy
-  - https://github.com/MosesofEgypt/gdl_tools'
+  - https://github.com/MosesofEgypt/gdl_tools
  #### NFL Blitz
   - https://github.com/thompjake/NFL-Blitz-File-Editor
   - https://github.com/thompjake/NFL-Blitz-Play-Maker
