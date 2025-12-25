@@ -141,33 +141,58 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/LuminarLight/JakAudioTool
 
 ### Nintendo EAD
+ #### Animal Crossing
+  - https://github.com/Cuyler36/010Editor-AnimalCrossing-Templates
+  - https://github.com/Cuyler36/AC-Audiobank-Dumper/tree/main/AC%20Audiobank%20Dumper
+  - https://github.com/Cuyler36/ACNESCreator
+  - https://github.com/Cuyler36/ACSE
+  - https://github.com/Cuyler36/Animal-Crossing-Model-Editor
+  - https://github.com/Cuyler36/Animal-Crossing-Texture-Editor
+  - https://github.com/Cuyler36/Cross-View
+  - https://github.com/Cuyler36/RELDumper
  #### JSYSTEM
  *"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era."*
   - http://amnoid.de/gc
-  - https://github.com/arookas/blojob
-  - https://github.com/blank63/j3dview
-  - https://github.com/LordNed/J3D-Model-Viewer
-  - https://github.com/LordNed/JStudio
   - https://github.com/magcius/noclip.website/tree/main/src/Common/JSYSTEM
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/JSystem
-  - https://github.com/NerduMiner/p2setoolkit
-  - https://github.com/PikHacker/jpc_conv
   - https://github.com/Rain336/JSystem
-  - https://github.com/RenolY2/pyblo2-gui
-  - https://github.com/Sage-of-Mirrors/blemd
-  - https://github.com/Sage-of-Mirrors/BTITool
-  - https://github.com/Sage-of-Mirrors/GCFontTool
-  - https://github.com/Sage-of-Mirrors/J3DUltra
-  - https://github.com/Sage-of-Mirrors/Jekyll
-  - https://github.com/Sage-of-Mirrors/libbti
-  - https://github.com/Sage-of-Mirrors/SuperBMD
-  - https://github.com/snailspeed3/RiiStudio
-  - https://github.com/SunakazeKun/pyjmap
-  - https://github.com/SunakazeKun/pyjkernel
   - https://github.com/XAYRGA/ibnktool
-  - https://lumasworkshop.com/wiki/BMD/BDL_(File_Format)
   - https://wiki.cloudmodding.com/zgcn/JSYSTEM
-  - https://wiki.tockdom.com/wiki/BMD_and_BDL_(File_Format)
+  ##### J2DGraph
+   - https://github.com/arookas/blojob
+   - https://github.com/RenolY2/pyblo2-gui
+  ##### J3DGraph
+   - https://github.com/blank63/j3dview
+   - https://github.com/LordNed/J3D-Model-Viewer
+   - https://github.com/LordNed/JStudio
+   - https://github.com/Sage-of-Mirrors/blemd
+   - https://github.com/Sage-of-Mirrors/J3DUltra
+   - https://github.com/Sage-of-Mirrors/Jekyll
+   - https://github.com/Sage-of-Mirrors/SuperBMD
+   - https://github.com/snailspeed3/RiiStudio
+   - https://lumasworkshop.com/wiki/BMD/BDL_(File_Format)
+   - https://wiki.tockdom.com/wiki/BMD_and_BDL_(File_Format)
+  ##### JAudio
+   - https://github.com/NerduMiner/p2setoolkit
+  ##### JMap
+   - https://github.com/SunakazeKun/pyjmap
+  ##### JParticle
+   - https://github.com/PikHacker/jpc_conv
+  ##### JStudio
+   - https://github.com/RenolY2/pikmin2-stb
+  ##### JUtility
+   - https://github.com/Cuyler36/Yaz0Decoder
+   - https://github.com/gcnhax/rarc-rs
+   - https://github.com/LordNed/WArchive-Tools
+   - https://github.com/RenolY2/RARClib.py
+   - https://github.com/RenolY2/yaz0-decode-encode
+   - https://github.com/Sage-of-Mirrors/libbti
+   - https://github.com/Sage-of-Mirrors/BTITool
+   - https://github.com/Sage-of-Mirrors/GCFontTool
+   - https://github.com/Sage-of-Mirrors/RarcPack
+   - https://github.com/SunakazeKun/pyjkernel
+   - https://github.com/SuperHackio/WiiExplorer
+   - https://github.com/tpwrules/ARCTool
  #### Luigi's Mansion
   - https://github.com/Astral-C/Luigis-Mansion-Blender-Toolkit
   - https://github.com/opeyx/Dolhouse
@@ -184,7 +209,6 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin2
   - https://github.com/Minty-Meeo/Pikmin-2-Symbol-Maps
   - https://github.com/RenolY2/pikmin-tools
-  - https://github.com/RenolY2/pikmin2-stb
 
 ### Sappy
 *SDK-provided formats for the GBA's sound engine.*
