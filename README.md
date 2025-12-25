@@ -1,33 +1,35 @@
 # awesome-game-file-formats
 A collection of awesome documentation and libraries for various game file formats.
 
-** Libraries/Studios
+## Libraries/Studios
 
-- **Fast3d/F3dex2** - *SGI's microcode format for defining 3d graphics on the N64.*
+### Fast3d/F3dex2
+*SGI's microcode format for defining 3d graphics on the N64.*
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/F3dzex2/F3dzex2
   - https://github.com/Mr-Wiseguy/F3DEX2Decoder
   - https://github.com/Trenavix/F3D2F3DEX
   - https://wiki.cloudmodding.com/oot/F3DZEX2
 
-- **Grezzo**
+### Grezzo
   - https://github.com/M-1-RLG/io_scene_cmb
   - https://github.com/magcius/noclip.website/tree/main/src/OcarinaOfTime3D
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Grezzo
  
-- **HAL Laboratory**
+### HAL Laboratory
   - https://github.com/jam1garner/Smash-Forge
   - https://github.com/Ploaj/HSDLib
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Sysdolphin
   - https://smashboards.com/threads/melee-dat-format.292603/
 
-- **Intelligent Systems**
+### Intelligent Systems
   - https://github.com/follyfoxe/SpmViewer
   - https://github.com/jdaster64/ttyd-utils
   - https://github.com/magcius/noclip.website/tree/main/src/PaperMarioTTYD
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/PaperMarioTheThousandYearDoor
   - https://github.com/PistonMiner/ttyd-tools
 
-- **JSYSTEM** - *"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era."*
+### JSYSTEM
+*"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era.*
   - https://github.com/LordNed/J3D-Model-Viewer
   - https://github.com/LordNed/JStudio
   - https://github.com/magcius/noclip.website/tree/main/src/Common/JSYSTEM
@@ -40,7 +42,7 @@ A collection of awesome documentation and libraries for various game file format
   - https://wiki.cloudmodding.com/zgcn/JSYSTEM
   - https://wiki.tockdom.com/wiki/BMD_and_BDL_(File_Format)
  
-- **Midway**
+### Midway
   - https://github.com/haekb/gdl-tools
   - https://github.com/haekb/gdl_wad_decoder
   - https://github.com/haekb/gdl_vbnk_decoder
