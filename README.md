@@ -62,6 +62,10 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Sysdolphin
  - https://smashboards.com/threads/melee-dat-format.292603/
 
+### Hudson Soft
+ - https://github.com/PartyPlanner64/PartyPlanner64
+ - https://github.com/PartyPlanner64/symbols
+
 ### Interactive Studios
  #### Glover
   - https://github.com/magcius/noclip.website/tree/main/src/Glover
