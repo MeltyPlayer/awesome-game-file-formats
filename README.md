@@ -35,7 +35,7 @@ A collection of awesome documentation and libraries for various game file format
   - https://github.com/PistonMiner/ttyd-tools
 
 ### JSYSTEM
-*"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era.*
+*"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era."*
  - http://amnoid.de/gc
  - https://github.com/blank63/j3dview
  - https://github.com/LordNed/J3D-Model-Viewer
