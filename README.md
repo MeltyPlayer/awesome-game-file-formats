@@ -10,7 +10,14 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - Studio, when a set of formats are reused by a single studio.
  - Games, when a set of formats are used only in one game.
 
+### Angel Studios
+ - https://github.com/0x1F9F1/MidtownExtractor
+ - https://github.com/Dummiesman/AngelStudiosBlenderAddon
+ - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/AngelStudios
+
 ### Ape, Inc.
+ - https://github.com/CataLatas/earthbound-script-dumper
+ - https://github.com/PKHackers/ebtexted
  - https://github.com/Supremekirb/EBME
 
 ### Fast3d/F3dex
@@ -309,6 +316,21 @@ I've grouped sources by common "formats", preferring the broadest category possi
 - https://github.com/scurest/apicula
 - https://github.com/scurest/apicula/wiki/FILETYPES
 - https://github.com/turtleisaac/Nds4j
+
+### Rare
+ #### Banjo Kazooie / Banjo Tooie
+ - https://github.com/magcius/noclip.website/tree/main/src/BanjoKazooie
+ - https://github.com/magcius/noclip.website/tree/main/src/BanjoTooie
+ - https://github.com/oohnahleevay/Banjo-Kazooie-Floor-Tool
+ - https://github.com/RareExports/Banjo-s-Backpack
+ - https://github.com/RareExports/Bottles_Glasses
+ - https://github.com/RareExports/WumbasWigwam
+ #### Donkey Kong 64
+ - https://github.com/GloriousLiar/DK64MapGenerator
+ - https://github.com/RareExports/DK64-Viewer
+ - https://github.com/ThomasJRyan/dk64_lib
+ #### Goldeneye 007
+  - https://github.com/carnivoroussociety/GoldEditor
 
 ### Sappy
 *SDK-provided formats for the GBA's sound engine.*
