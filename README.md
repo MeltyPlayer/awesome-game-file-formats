@@ -95,12 +95,21 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/magcius/noclip.website/tree/main/src/Glover
   - https://github.com/naclomi/libgarib
 
+### Jagex
+ - https://github.com/Bloodspawns/CacheModelTools
+ - https://github.com/ConnorDY/OSRS-Environment-Exporter
+ - https://github.com/waleedyaseen/modelviewer
+
 ### Jupiter
  - https://github.com/AkagitsuneYuki/MarioPicrossRipper
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/MariosPicross/MariosPicross
  - https://github.com/sopoforic/cgrr-mariospicross
  - https://github.com/T0biasCZe/MarioPicrossLoader3000
  - https://www.zophar.net/fileuploads/3/21546xutra/picrossleveldata.txt
+
+### Konami
+ - https://github.com/Jayveer/MGS-KMD-Noesis
+ - https://github.com/Jayveer/Rex
 
 ### Kuju London
  - https://github.com/htimsnhoj543678/PF2-BMP-Editor
@@ -323,6 +332,12 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/NeilJed/VTFLib
  - https://github.com/TeamSpen210/srctools
  - https://github.com/UnBeatWaterGH/valve-vrm
+
+### Square Enix
+ - https://github.com/GovanifY/kh2mdlx
+ - https://github.com/GovanifY/kh2vif
+ - https://github.com/Kite2810/KH2-Anm-Generator
+ - https://github.com/Some1fromthedark/Hypercrown
 
 ### Visceral Games
  - https://github.com/Durik256/Noesis-Plugins
