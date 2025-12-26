@@ -47,10 +47,16 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/thefifthmatt/ESDLang
 
 ### Game Freak
- #### Gen I/II
+ #### Gen I
   - https://github.com/KernelEquinox/map-editor
   - https://github.com/Rangi42/polished-map
+  - https://bulbapedia.bulbagarden.net/wiki/Save_data_structure_(Generation_I)
+ #### Gen II
+  - https://github.com/KernelEquinox/map-editor
+  - https://github.com/Rangi42/polished-map
+  - https://bulbapedia.bulbagarden.net/wiki/Save_data_structure_(Generation_II)
  #### Gen III
+  - https://bulbapedia.bulbagarden.net/wiki/Save_data_structure_(Generation_III)
   - https://github.com/cosarara/blue-spider
   - https://github.com/huderlem/porymap
   - https://github.com/shinyquagsire23/MEH
@@ -70,6 +76,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
  
 ### HAL Laboratory
 #### sysdolphin
+ - https://github.com/EstevanBR/DATReaderC
  - https://github.com/magcius/noclip.website/tree/main/src/SYSDOLPHIN
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Sysdolphin
  - https://github.com/Ploaj/HSDLib
@@ -149,7 +156,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/MarioArtist
  
 ### Midway Games
- #### Gauntlet
+ #### Gauntlet Legends / Gauntlet Dark Legacy
   - https://github.com/haekb/gdl-tools
   - https://github.com/haekb/gdl_vbnk_decoder
   - https://github.com/haekb/gdl_wad_decoder
@@ -203,6 +210,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
  #### JSYSTEM
  *"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era."*
   - http://amnoid.de/gc
+  - https://github.com/LagoLunatic/gclib
   - https://github.com/magcius/noclip.website/tree/main/src/Common/JSYSTEM
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/JSystem
   - https://github.com/Rain336/JSystem
@@ -236,6 +244,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
    - https://github.com/Cuyler36/Yaz0Decoder
    - https://github.com/gcnhax/rarc-rs
    - https://github.com/hadashisora/NintyFont
+   - https://github.com/Julgodis/picori
    - https://github.com/LordNed/WArchive-Tools
    - https://github.com/RenolY2/RARClib.py
    - https://github.com/RenolY2/yaz0-decode-encode
@@ -342,9 +351,12 @@ I've grouped sources by common "formats", preferring the broadest category possi
 
 ### Sonic Team
  #### Sonic Adventure
-  - https://info.sonicretro.org/SCHG:Sonic_Adventure
   - https://github.com/FraGag/sadtools
   - https://github.com/X-Hax/sa_tools
+  - https://info.sonicretro.org/SCHG:Sonic_Adventure
+ #### Sonic Adventure 2
+  - https://github.com/X-Hax/sa_tools
+  - https://info.sonicretro.org/SCHG:Sonic_Adventure_2
 
 ### Source
  - https://github.com/Galaco/studiomodel
