@@ -83,6 +83,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://hack64.net/wiki/doku.php?id=paper_mario
  #### Paper Mario: The Thousand Year Door / Super Paper Mario
   - https://github.com/follyfoxe/SpmViewer
+  - https://github.com/KillzXGaming/CollisionSceneBinary
   - https://github.com/jdaster64/ttyd-utils
   - https://github.com/magcius/noclip.website/tree/main/src/PaperMarioTTYD
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/PaperMarioTheThousandYearDoor
@@ -189,6 +190,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/magcius/noclip.website/tree/main/src/Common/JSYSTEM
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/JSystem
   - https://github.com/Rain336/JSystem
+  - https://github.com/SuperHackio/Hack.io
   - https://wiki.cloudmodding.com/zgcn/JSYSTEM
   ##### J2DGraph
    - https://github.com/arookas/blojob
@@ -205,6 +207,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
    - https://lumasworkshop.com/wiki/BMD/BDL_(File_Format)
    - https://wiki.tockdom.com/wiki/BMD_and_BDL_(File_Format)
   ##### JAudio
+   - https://github.com/3e2j/BMS-Analyzer
    - https://github.com/NerduMiner/p2setoolkit
    - https://github.com/XAYRGA/ibnktool
   ##### JMap
@@ -254,6 +257,8 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/RenolY2/mkdd-collision
   - https://github.com/RenolY2/mkdd-track-editor
   - https://github.com/shibbo/DouBOL-Dash
+ #### Mario Kart DS
+  - https://github.com/HaroohiePals/MarioKartToolbox
  #### Pikmin
   - https://github.com/intns/MODConv
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin1
@@ -277,10 +282,30 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/magcius/noclip.website/tree/main/src/SuperMario64DS
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/SuperMario64Ds
 
+### Nitro
+*Official SDK for the Nintendo DS.*
+- https://github.com/DanielPXL/nitro-fs
+- https://github.com/Ermelber/nitro-g3d-tools
+- https://github.com/Fexty12573/nitroefx
+- https://github.com/HaroohiePals/NitroEffectMaker
+- https://github.com/lhearachel/narc
+- https://github.com/nickworonekin/narchive
+- https://github.com/ntrtwl/NitroSDK
+- https://github.com/ntrtwl/NitroSystem
+- https://github.com/pedro-javierf/NTRGhidra
+- https://github.com/PlatinumMaster/NitroSharp
+- https://github.com/red031000/nitrog3d
+- https://github.com/red031000/nitrogfx
+- https://github.com/SceneGate/Ekona
+- https://github.com/scurest/apicula
+- https://github.com/scurest/apicula/wiki/FILETYPES
+- https://github.com/turtleisaac/Nds4j
+
 ### Sappy
 *SDK-provided formats for the GBA's sound engine.*
  - https://github.com/berg8793/gba-mus-ripper
  - https://github.com/hfmkwi/SapPy
+ - https://github.com/ipatix/agbplay
  - https://github.com/maddievision/sappy
  - https://github.com/Touched/Sappy
 
@@ -302,5 +327,6 @@ I've grouped sources by common "formats", preferring the broadest category possi
 ### Visceral Games
  - https://github.com/Durik256/Noesis-Plugins
  - https://github.com/gibbed/Gibbed.Visceral
+ - https://github.com/Greavesy1899/VisceralToolkit
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/VisceralGames
  - https://zenhax.com/viewtopic.php@t=15376.html
