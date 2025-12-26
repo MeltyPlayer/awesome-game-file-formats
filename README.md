@@ -101,14 +101,19 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/BattalionWars
  - https://github.com/RenolY2/battalion-level-editor
  - https://github.com/RenolY2/battalion-tools
- - https://github.com/RenolY2/bwterrain-blender
  - https://github.com/RenolY2/bw-model-viewer
  - https://github.com/RenolY2/bw-restool
  - https://github.com/RenolY2/bw-texture-conv
+ - https://github.com/RenolY2/bwterrain-blender
 
 ### Level-5
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Level5
  - https://github.com/Ploaj/Metanoia
+ - https://github.com/Tiniifan/Fougere
+ - https://github.com/Tiniifan/level5_material
+ - https://github.com/Tiniifan/Level5ResourceEditor
+ - https://github.com/Tiniifan/Nyanko
+ - https://github.com/Tiniifan/StudioElevenLib
  
 ### Mario Artist
  - https://github.com/jkbenaim/leotools
@@ -116,11 +121,11 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/LuigiBlood/mfs_manager
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/MarioArtist
  
-### Midway
+### Midway Games
  #### Gauntlet
   - https://github.com/haekb/gdl-tools
-  - https://github.com/haekb/gdl_wad_decoder
   - https://github.com/haekb/gdl_vbnk_decoder
+  - https://github.com/haekb/gdl_wad_decoder
   - https://github.com/haekb/gl_rom_decoder
   - https://github.com/haekb/io_scene_gdl
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/GauntletDarkLegacy
@@ -222,7 +227,6 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/NerduMiner/Pikmin1Toolset
   - https://github.com/RenolY2/PikBinGen
  #### Pikmin 2
-  - [(JSYSTEM)](#jsystem)
   - https://github.com/AntonioAntonio-ai/PikminEnemyParms
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin2
   - https://github.com/Minty-Meeo/Pikmin-2-Symbol-Maps
