@@ -10,6 +10,9 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - Studio, when a set of formats are reused by a single studio.
  - Games, when a set of formats are used only in one game.
 
+### Ape, Inc.
+ - https://github.com/Supremekirb/EBME
+
 ### Fast3d/F3dex
 *SGI's microcode format for defining 3d graphics on the N64.*
  - https://github.com/Emill/n64-fast3d-engine
@@ -26,9 +29,11 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/colevk/dark-souls-map-viewer
  - https://github.com/elizagamedev/blender-flver
  - https://github.com/FelixBenter/FromSoftware-Blender-Importer
+ - https://github.com/gibbed/Gibbed.DarkSouls
  - https://github.com/Grimrukh/soulstruct
  - https://github.com/Grimrukh/soulstruct-blender
  - https://github.com/JKAnderson/SoulsTemplates
+ - https://github.com/LordRadai/DS2Template
  - https://github.com/magcius/noclip.website/tree/main/src/DarkSouls
  - https://github.com/Meowmaritus/DSAnimStudio
  - https://github.com/soulsmods/DSMapStudio
@@ -49,6 +54,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
  - https://github.com/vgmoose/PokemonFSYSConverter
 
 ### Grezzo
+ - https://github.com/KillzXGaming/Switch-Toolbox/tree/master/File_Format_Library/FileFormats/Grezzo
  - https://github.com/M-1-RLG/io_scene_cmb
  - https://github.com/magcius/noclip.website/tree/main/src/OcarinaOfTime3D
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Grezzo
@@ -109,15 +115,19 @@ I've grouped sources by common "formats", preferring the broadest category possi
 ### Level-5
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Libraries/Level5
  - https://github.com/Ploaj/Metanoia
+ - https://github.com/Tiniifan/CfgBinEditor
  - https://github.com/Tiniifan/Fougere
+ - https://github.com/Tiniifan/GetNPCPos
  - https://github.com/Tiniifan/level5_material
  - https://github.com/Tiniifan/Level5ResourceEditor
  - https://github.com/Tiniifan/Nyanko
+ - https://github.com/Tiniifan/Pingouin
  - https://github.com/Tiniifan/StudioElevenLib
  
 ### Mario Artist
  - https://github.com/jkbenaim/leotools
  - https://github.com/LuigiBlood/leo64dd_python
+ - https://github.com/LuigiBlood/ma3d1toOBJ
  - https://github.com/LuigiBlood/mfs_manager
  - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/MarioArtist
  
@@ -168,6 +178,11 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Formats/Ast
   - https://github.com/vgmstream/vgmstream
   - https://github.com/XAYRGA/jatast
+ #### BCRES
+ *First-party 3DS model format. (Is there a proper library name for this?)*
+  - https://github.com/MapStudioProject/CTR-Studio
+  - https://github.com/skyfloogle/pycgfx
+  - https://nsmbhd.net/wiki/BCRES/
  #### JSYSTEM
  *"Nintendo's in-house middleware which was used to develop a number of games for the GameCube and Wii era."*
   - http://amnoid.de/gc
@@ -201,6 +216,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
   ##### JUtility
    - https://github.com/Cuyler36/Yaz0Decoder
    - https://github.com/gcnhax/rarc-rs
+   - https://github.com/hadashisora/NintyFont
    - https://github.com/LordNed/WArchive-Tools
    - https://github.com/RenolY2/RARClib.py
    - https://github.com/RenolY2/yaz0-decode-encode
@@ -211,6 +227,24 @@ I've grouped sources by common "formats", preferring the broadest category possi
    - https://github.com/SunakazeKun/pyjkernel
    - https://github.com/SuperHackio/WiiExplorer
    - https://github.com/tpwrules/ARCTool
+ #### Legend of Zelda, The: Ocarina of Time / Legend of Zelda, The: Majora's Mask
+  - https://wiki.cloudmodding.com/oot/Animation_Format
+  - https://github.com/mzxrules/MasterOcarina
+  - https://github.com/politerust/zelda-internal-file-extractor
+  - https://github.com/Random06457/Zelda64Loader
+  - https://github.com/sauraen/zcamedit
+  - https://github.com/skawo/OoT-Anim-Copy
+  - https://github.com/skawo/OoT-NPC-Maker
+  - https://github.com/skawo/PyZelda64-Text-Editor
+  - https://github.com/wareya/zev
+  - https://github.com/xdanieldzd/ozmav
+  - https://github.com/xdanieldzd/SceneNavi
+  - https://github.com/xdanieldzd/sharpocarina
+  - https://github.com/z64dev/z64font
+  - https://github.com/z64dev/z64viewer
+  - https://github.com/z64dev/zzrtl
+  - https://github.com/z64tools/z64audio
+  - https://github.com/zeldaret/Z64Utils
  #### Luigi's Mansion
   - https://github.com/Astral-C/Luigis-Mansion-Blender-Toolkit
   - https://github.com/opeyx/Dolhouse
@@ -228,6 +262,7 @@ I've grouped sources by common "formats", preferring the broadest category possi
   - https://github.com/RenolY2/PikBinGen
  #### Pikmin 2
   - https://github.com/AntonioAntonio-ai/PikminEnemyParms
+  - https://github.com/Fizz14/CaveGenerator
   - https://github.com/MeltyPlayer/MeltyTool/tree/main/FinModelUtility/Games/Pikmin2
   - https://github.com/Minty-Meeo/Pikmin-2-Symbol-Maps
   - https://github.com/RenolY2/pikmin-tools
