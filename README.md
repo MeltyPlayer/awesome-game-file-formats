@@ -341,6 +341,11 @@ I've grouped sources by common "formats", preferring the broadest category possi
  #### Goldeneye 007
   - https://github.com/carnivoroussociety/GoldEditor
 
+### Rockstar Games
+*RAGE engine formats: RPF archives and the resources inside them, as GTA V and Red Dead Redemption 2 ship them.*
+ - https://github.com/dexyfex/CodeWalker
+ - https://github.com/openragee/openrage
+
 ### Sappy
 *SDK-provided formats for the GBA's sound engine.*
  - https://github.com/berg8793/gba-mus-ripper
